@@ -1,0 +1,36 @@
+h1,
+h2,
+h3 {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+#homepage-heading {
+    color: brown;
+}
+
+li {
+    font-size: 30;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pizza {
+    background-color: rgba(255,0,0,0.2);
+    color: red;
+}
+
+.pbj {
+    background-color: rgba(120,0,235,0.2);
+    color: green;
+}
+
+.smoothie {
+    background-color: thistle;
+    color: blue;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
