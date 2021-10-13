@@ -1,4 +1,4 @@
-In this project, we will be building a basic recipe website.  It will be compiling some of my favorite recipes.
+In this project, I will be building a basic recipe website.  It will compile some of my favorite recipes.
 
 By the end of this project, I will have demonstrated the following skills I have learned:
     1. Creating headings and paragraphs
